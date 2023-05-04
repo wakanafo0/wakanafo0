@@ -1,6 +1,6 @@
 - 👋 Hi, I am Hiro
 - 👀 I’m interested in technology and innovation
-- 🌱 I’m currently learning Microsoft R and Pyth
+- 🌱 I’m currently learning Microsoft R and Python
 - 💞️ I’m looking to collaborate on an AI project
 - 📫 How to reach me wakanafo0@gmail.com
 
